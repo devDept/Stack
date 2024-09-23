@@ -95,7 +95,7 @@
 			Controls.Add(design1);
 			Name = "Form1";
 			StartPosition = FormStartPosition.CenterScreen;
-			Text = "Form1";
+			Text = "Stack";
 			((System.ComponentModel.ISupportInitialize)design1).EndInit();
 			ResumeLayout(false);
 		}
