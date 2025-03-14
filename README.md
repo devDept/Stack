@@ -1,7 +1,8 @@
 # Stack
 A copy of the popular videogame based on [devDept Eyeshot](http://www.devdept.com/products).
 
-![stack](https://github.com/user-attachments/assets/f456da79-e835-463a-9f40-ed8f87352580)
+![stack](https://github.com/user-attachments/assets/ae689f76-a443-4fe8-a72a-d6c9ffeabd5e)
+
 
 ### Eyeshot Trial Version Instructions
 
